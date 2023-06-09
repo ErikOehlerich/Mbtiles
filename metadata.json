@@ -1,0 +1,13 @@
+{
+  "name": "MBtiles",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "12",
+  "maxzoom": "16",
+  "scale": "1.000000",
+  "bounds": [10.12317093, 56.12782981, 10.19781981, 56.16983062],
+  "profile": "mercator"
+}
